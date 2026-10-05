@@ -1,4 +1,6 @@
 ## Hi there 👋
+<img width="880" height="192" alt="github-user-contribution" src="https://github.com/user-attachments/assets/b93e8245-4f63-4259-a0aa-9f5f06c669db" />
+
 
 <!--
 **BouyguirNoureddine/BouyguirNoureddine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
